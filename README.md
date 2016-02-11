@@ -1,6 +1,6 @@
 # Pinky Dinky Doo Revenge
 ## Description
-College assignment. A Windows game built using the <a href="http://winbgim.codecutter.org/" target="_blank">WinBGIM</a> library coded and compiled with <a href="http://www.codeblocks.org/" target="_blank">Code::Blocks</a>. **Compiled under Windows 8.1 64 bits.**
+First Year college assignment. A Windows game built using the <a href="http://winbgim.codecutter.org/" target="_blank">WinBGIM</a> library coded in the C language. <a href="http://www.codeblocks.org/" target="_blank">Code::Blocks</a> was the IDE used to code and compile. **Compiled under Windows 8.1 64 bits.**
 
 ## The Game
 The game is a bomberman gameplay slash pacman graphics rip off. It's basically bomberman with some pacman textures.
