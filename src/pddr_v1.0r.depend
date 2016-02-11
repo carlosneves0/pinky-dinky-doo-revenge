@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1412701095 source:c:\users\carlos\lpa\pddr_v1.0r\bomb.c
+	"game.h"
+	"bomb.h"
+
+1412710804 c:\users\carlos\lpa\pddr_v1.0r\game.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	"global_constants.h"
+	"state_in_game.h"
+	"state_main_menu.h"
+	"state_controls.h"
+	"state_credits.h"
+	"top_bar.h"
+	"timer.h"
+	"audio.h"
+	"image.h"
+	"button.h"
+	"player.h"
+	"npc.h"
+	"bomb.h"
+
+1266108614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1412711538 c:\users\carlos\lpa\pddr_v1.0r\global_constants.h
+
+1412710569 c:\users\carlos\lpa\pddr_v1.0r\state_in_game.h
+	"top_bar.h"
+	"button.h"
+	"map.h"
+	"player.h"
+	"npc.h"
+
+1412352459 c:\users\carlos\lpa\pddr_v1.0r\button.h
+
+1412375944 c:\users\carlos\lpa\pddr_v1.0r\map.h
+
+1412633279 c:\users\carlos\lpa\pddr_v1.0r\player.h
+	"map.h"
+	"bomb.h"
+
+1412700665 c:\users\carlos\lpa\pddr_v1.0r\bomb.h
+	"game.h"
+	"timer.h"
+
+1412442635 c:\users\carlos\lpa\pddr_v1.0r\timer.h
+	<time.h>
+
+1412650723 c:\users\carlos\lpa\pddr_v1.0r\npc.h
+	"timer.h"
+	"bomb.h"
+	"map.h"
+	"npc.h"
+
+1412353959 c:\users\carlos\lpa\pddr_v1.0r\state_main_menu.h
+	"button.h"
+
+1412353982 c:\users\carlos\lpa\pddr_v1.0r\state_controls.h
+	"game.h"
+	"button.h"
+
+1412354281 c:\users\carlos\lpa\pddr_v1.0r\state_credits.h
+
+1412368018 c:\users\carlos\lpa\pddr_v1.0r\image.h
+
+1412353114 source:c:\users\carlos\lpa\pddr_v1.0r\button.c
+	"game.h"
+	"button.h"
+
+1412699942 source:c:\users\carlos\lpa\pddr_v1.0r\game.c
+	"game.h"
+
+1412368105 source:c:\users\carlos\lpa\pddr_v1.0r\image.c
+	"game.h"
+	"image.h"
+
+1412653307 source:c:\users\carlos\lpa\pddr_v1.0r\main.c
+	"game.h"
+
+1412657291 source:c:\users\carlos\lpa\pddr_v1.0r\map.c
+	"game.h"
+	"map.h"
+
+1412651910 source:c:\users\carlos\lpa\pddr_v1.0r\npc.c
+	"game.h"
+	"npc.h"
+
+1412708768 source:c:\users\carlos\lpa\pddr_v1.0r\player.c
+	"game.h"
+	"player.h"
+
+1412352840 source:c:\users\carlos\lpa\pddr_v1.0r\state_controls.c
+	"game.h"
+
+1412700459 source:c:\users\carlos\lpa\pddr_v1.0r\state_credits.c
+	"game.h"
+	"state_credits.h"
+
+1412711933 source:c:\users\carlos\lpa\pddr_v1.0r\state_in_game.c
+	"game.h"
+	"state_in_game.h"
+
+1412700439 source:c:\users\carlos\lpa\pddr_v1.0r\state_main_menu.c
+	"game.h"
+	"state_main_menu.h"
+
+1412442635 source:c:\users\carlos\lpa\pddr_v1.0r\timer.c
+	"game.h"
+	"timer.h"
+
+1412699798 c:\users\carlos\lpa\pddr_v1.0r\audio.h
+
+1412699811 source:c:\users\carlos\lpa\pddr_v1.0r\audio.c
+	<windows.h>
+	"audio.h"
+
+1412710311 c:\users\carlos\lpa\pddr_v1.0r\ig_top_bar.h
+
+1412710804 c:\users\carlos\lpa\pddr_v1.0r\top_bar.h
+
+1412711468 source:c:\users\carlos\lpa\pddr_v1.0r\top_bar.c
+	"game.h"
+	"global_constants.h"
+	"top_bar.h"
+
+1412773469 source:c:\users\c_neves\desktop\pddr_v1.0r\audio.c
+	<windows.h>
+	"audio.h"
+
+1412699798 c:\users\c_neves\desktop\pddr_v1.0r\audio.h
+
+1412701095 source:c:\users\c_neves\desktop\pddr_v1.0r\bomb.c
+	"game.h"
+	"bomb.h"
+
+1412774746 c:\users\c_neves\desktop\pddr_v1.0r\game.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	"global_constants.h"
+	"state_in_game.h"
+	"state_main_menu.h"
+	"state_controls.h"
+	"state_credits.h"
+	"top_bar.h"
+	"timer.h"
+	"audio.h"
+	"image.h"
+	"button.h"
+	"player.h"
+	"npc.h"
+	"bomb.h"
+
+1266108614 e:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1412711538 c:\users\c_neves\desktop\pddr_v1.0r\global_constants.h
+
+1412710569 c:\users\c_neves\desktop\pddr_v1.0r\state_in_game.h
+	"top_bar.h"
+	"button.h"
+	"map.h"
+	"player.h"
+	"npc.h"
+
+1412710804 c:\users\c_neves\desktop\pddr_v1.0r\top_bar.h
+
+1412352459 c:\users\c_neves\desktop\pddr_v1.0r\button.h
+
+1412375944 c:\users\c_neves\desktop\pddr_v1.0r\map.h
+
+1412633279 c:\users\c_neves\desktop\pddr_v1.0r\player.h
+	"map.h"
+	"bomb.h"
+
+1412700665 c:\users\c_neves\desktop\pddr_v1.0r\bomb.h
+	"game.h"
+	"timer.h"
+
+1412442635 c:\users\c_neves\desktop\pddr_v1.0r\timer.h
+	<time.h>
+
+1412650723 c:\users\c_neves\desktop\pddr_v1.0r\npc.h
+	"timer.h"
+	"bomb.h"
+	"map.h"
+	"npc.h"
+
+1412353959 c:\users\c_neves\desktop\pddr_v1.0r\state_main_menu.h
+	"button.h"
+
+1412353982 c:\users\c_neves\desktop\pddr_v1.0r\state_controls.h
+	"game.h"
+	"button.h"
+
+1412354281 c:\users\c_neves\desktop\pddr_v1.0r\state_credits.h
+
+1412368018 c:\users\c_neves\desktop\pddr_v1.0r\image.h
+
+1412353114 source:c:\users\c_neves\desktop\pddr_v1.0r\button.c
+	"game.h"
+	"button.h"
+
+1412699942 source:c:\users\c_neves\desktop\pddr_v1.0r\game.c
+	"game.h"
+
+1412368105 source:c:\users\c_neves\desktop\pddr_v1.0r\image.c
+	"game.h"
+	"image.h"
+
+1412653307 source:c:\users\c_neves\desktop\pddr_v1.0r\main.c
+	"game.h"
+
+1412657291 source:c:\users\c_neves\desktop\pddr_v1.0r\map.c
+	"game.h"
+	"map.h"
+
+1412651910 source:c:\users\c_neves\desktop\pddr_v1.0r\npc.c
+	"game.h"
+	"npc.h"
+
+1412708768 source:c:\users\c_neves\desktop\pddr_v1.0r\player.c
+	"game.h"
+	"player.h"
+
+1412352840 source:c:\users\c_neves\desktop\pddr_v1.0r\state_controls.c
+	"game.h"
+
+1412700459 source:c:\users\c_neves\desktop\pddr_v1.0r\state_credits.c
+	"game.h"
+	"state_credits.h"
+
+1412711933 source:c:\users\c_neves\desktop\pddr_v1.0r\state_in_game.c
+	"game.h"
+	"state_in_game.h"
+
+1412700439 source:c:\users\c_neves\desktop\pddr_v1.0r\state_main_menu.c
+	"game.h"
+	"state_main_menu.h"
+
+1412442635 source:c:\users\c_neves\desktop\pddr_v1.0r\timer.c
+	"game.h"
+	"timer.h"
+
+1412711468 source:c:\users\c_neves\desktop\pddr_v1.0r\top_bar.c
+	"game.h"
+	"global_constants.h"
+	"top_bar.h"
+
