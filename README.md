@@ -1,4 +1,7 @@
 # Pinky Dinky Doo Revenge
+
+![PDDR-game](https://raw.githubusercontent.com/c-neves/pinky-dinky-doo-revenge/master/assets/game.jpg)
+
 ## Description
 First Year college assignment. A Windows game built using the <a href="http://winbgim.codecutter.org/" target="_blank">WinBGIM</a> library coded in the C language. <a href="http://www.codeblocks.org/" target="_blank">Code::Blocks</a> was the IDE used to code and compile. **Compiled under Windows 8.1 64 bits.**
 
